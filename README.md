@@ -7,6 +7,12 @@ Aquí encontrarás trabajos prácticos donde aplico técnicas de análisis, visu
 
 ## 📌 Proyectos
 
+### 🛵 Factores de Riesgo en Accidentes de Motovehículos  
+`Factores_Riesgo_MotoVehiculos.ipynb`  
+Análisis exploratorio de datos de siniestros viales con foco en accidentes en moto.  
+Identificación de variables de riesgo como edad, casco, alcohol y condiciones del entorno.  
+Visualización de tendencias en Power BI para informar políticas de prevención.
+
 ### 🏥 Predicción de Readmisión de Pacientes
 `proyecto-readmision.ipynb`  
 Modelo de clasificación binaria con XGBoost sobre datos médicos sintéticos.  
